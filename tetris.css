@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+
+body{
+    background: #202028;
+    color: #fff;
+    font-family: 'Kode Mono', sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+canvas{
+    border: solid 0.2em #fff;
+    height: 90vh;
+}
+
+.score h3{
+    align-items: center;
+    display: flex;
+    height: 100px;
+}
